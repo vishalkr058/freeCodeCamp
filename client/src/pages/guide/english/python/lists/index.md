@@ -110,3 +110,5 @@ Elements from a `list` may be extracted and re-arranged using another `list` as 
 *   `list.reverse()` Reverse the elements of the list in place.
 
 *   `list.copy()` Return a shallow copy of the list. Equivalent to a[:].
+
+*   `list.replace(old, new)` Return a copy of string where all occurrences of an ####old substring is replaced with ####new substring.
